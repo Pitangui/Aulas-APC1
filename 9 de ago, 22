@@ -67,6 +67,6 @@ switch(operacao){
 
 
     default:
-    printf("Deu ruim playboy");
+    printf("Operacao Inválida");
 }
 }
